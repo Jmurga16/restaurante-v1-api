@@ -1,7 +1,7 @@
 # Restaurante · API
 
 API REST para la gestión de un restaurante: categorías, encargados, menús, platos, recetas e ingredientes.
-Es el backend de [restaurante-v1-web](https://github.com/Jmurga16/restaurante-v1-web) (Angular 19).
+Es el backend de [restaurante-v1-web](https://github.com/josemurgadev/restaurante-v1-web) (Angular 19).
 
 ## Stack
 
